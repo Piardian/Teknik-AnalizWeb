@@ -1,0 +1,111 @@
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-image: url('TA nedir.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+            color: #fff;
+        }
+
+header a{
+    color: white;
+    padding: 10PX 40px;
+    width: 100px;
+    
+
+
+}
+
+
+hr{
+    margin: 30px;
+    margin-top: 200px;
+}
+
+nav {
+    background-color: #000000b4;
+    padding: 30px 0;
+    text-align: right;
+    
+    
+}
+
+nav li {
+    background-color: #ececec;
+    
+    text-align: left;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin:  50px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+nav a:hover {
+    color: #779fdb;
+}
+
+main {
+
+  max-width: 450px;
+  max-height: 400px;
+  margin: 70px auto;
+  padding: 1px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 15px;
+  
+  
+}
+section {
+    text-align: center;
+    padding: 10px 10px;
+    font-size: 20px;
+}
+img{
+    width: 50px;
+    padding: 25px 10px;
+}
+
+h1 a {
+    font-size: 70px;
+    color: #ffffff;
+    
+}
+ h2 {
+    color: #ffffff;
+
+}
+p a{
+    color: #ffffff;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 99.3%;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    text-align: left;
+    padding: 5px;
+    
+    
+
+}
+footer p {
+    text-align: right;
+    
+    
+}
+footer li a {
+   
+   color: white; 
+   text-decoration: none;
+   text-align: right;
+}
